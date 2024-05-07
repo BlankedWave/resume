@@ -237,16 +237,3 @@ hr {
 		margin: 0 auto;
 	}
 }
-
-.columns {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.skills_list {
-  flex: 1;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
